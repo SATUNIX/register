@@ -1,0 +1,12 @@
+{
+    "description": "SATUNIX Via github pages",
+    "repo": "https://github.com/SATUNIX/SATUNIX.github.io",
+    "owner": {
+        "username": "SATUNIX",
+        "email": "satoshi_1969@protonmail.com",
+        "twitter": "@CYBERDEFNCE2022"
+    },
+    "record": {
+        "CNAME": "satunix.github.io"
+    }
+}
